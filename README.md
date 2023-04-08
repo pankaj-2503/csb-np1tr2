@@ -1,2 +1,2 @@
 # To-do-list
-https://np1tr2.csb.app/
+https://pankaj-2503.github.io/csb-np1tr2/
