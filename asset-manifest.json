@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "https://pankaj-2503.github.io/csb-np1tr2/static/js/main.084ccdc7.chunk.js",
+    "main.js.map": "https://pankaj-2503.github.io/csb-np1tr2/static/js/main.084ccdc7.chunk.js.map",
+    "runtime-main.js": "https://pankaj-2503.github.io/csb-np1tr2/static/js/runtime-main.3d81517a.js",
+    "runtime-main.js.map": "https://pankaj-2503.github.io/csb-np1tr2/static/js/runtime-main.3d81517a.js.map",
+    "static/js/2.05d131db.chunk.js": "https://pankaj-2503.github.io/csb-np1tr2/static/js/2.05d131db.chunk.js",
+    "static/js/2.05d131db.chunk.js.map": "https://pankaj-2503.github.io/csb-np1tr2/static/js/2.05d131db.chunk.js.map",
+    "index.html": "https://pankaj-2503.github.io/csb-np1tr2/index.html",
+    "precache-manifest.12763d6a69ba6ee0ffd9d263569e84a0.js": "https://pankaj-2503.github.io/csb-np1tr2/precache-manifest.12763d6a69ba6ee0ffd9d263569e84a0.js",
+    "service-worker.js": "https://pankaj-2503.github.io/csb-np1tr2/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3d81517a.js",
+    "static/js/2.05d131db.chunk.js",
+    "static/js/main.084ccdc7.chunk.js"
+  ]
+}
